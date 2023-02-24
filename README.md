@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [Technology](Technology)
 
-- 💬 Ask me about **Python, Web Development**
+- 💬 Ask me about **Python | System Design | Databases | REST**
 
 - 📫 How to reach me **abhiyantimilsina@gmail.com**
 
