@@ -40,7 +40,7 @@
 </p>
 
 
-<h3 align="left">  I am experience in: </h3>
+<h3 align="left">  I have experience in: </h3>
 <p align="left">
  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
