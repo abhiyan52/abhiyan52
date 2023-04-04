@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhiyan52.github.io/hazeportfolio/](https://abhiyan52.github.io/hazeportfolio/)
 
-- 📝 I regularly write articles on [Technology](Technology)
+- 📝 I regularly write articles on [Technology](https://abhiyan52.github.io/hazeportfolio/)
 
 - 💬 Ask me about **Programming, Life, Sprituality**
 
