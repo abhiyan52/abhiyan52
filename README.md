@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **abhiyantimilsina@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/haze52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="haze52" height="30" width="40" /></a>
 <a href="https://twitter.com/avyanhaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avyanhaze" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiyan-timilsina-6b679b142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiyan-timilsina-6b679b142" height="30" width="40" /></a>
@@ -27,6 +27,7 @@
 <a href="https://www.hackerrank.com/abhiyantimilsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhiyantimilsina" height="30" width="40" /></a>
 </p>
 
+<hr/>
 
 <h3 align="left">  I am good at: </h3>
 <p align="left">
