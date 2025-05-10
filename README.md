@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhiyan Timilsina</h1>
 
-<h3 align="center">Senior Software Developer @ i3systems.ai | Python | Django | JavaScript | Ruby | Ruby on Rails | MySQL | Azure | 4+ Y</h3>
+<h3 align="center">Senior Software Developer @ Openenvoy | Python | Django | JavaScript | Ruby | Ruby on Rails | MySQL | Azure | 4+ Y</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiyan52&label=Profile%20views&color=0e75b6&style=flat" alt="abhiyan52" /> </p>
 
